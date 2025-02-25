@@ -11,6 +11,7 @@ Designed with a clean and intuitive user interface, the app provides a smooth sh
 - **API:** [Fake Store API](https://fakestoreapi.com) for real-time product data.
 - **Icons:** Font Awesome for adding icons that enhance UI/UX.
 - **Routing:** React Router for seamless page navigation.
+- **Babel Plugin:** used to apply specific code transformations to JavaScript code, allowing developers to write modern JavaScript syntax that can be transpiled to older browser-compatible versions by modifying the Abstract Syntax Tree (AST) of the code, essentially enabling the use of new features without waiting for full browser support across different environments. 
 
 ---
 
