@@ -77,7 +77,7 @@ Follow these steps to clone and run this project on your local machine:
 ### 🗂️ Steps to Set Up
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/react-ecommerce-app.git
+git clone https://github.com/pulkitbarala/PEP-PROJECT---FAKE-STORE.git
 ```
 
 2. **Navigate to the Project Folder**
